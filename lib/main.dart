@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//곰이 굴러가면 문곰문곰문곰문곰문곰문곰문곰문곰
 void main() {
   runApp(const MyApp());
 }
@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: '아아아아아아ㅏ아아악',
       theme: ThemeData(
         // This is the theme of your application.
         //
